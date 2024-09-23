@@ -1,5 +1,8 @@
 ---
 permalink: /about/
+layout: splash
+header:
+  teaser: background.png
 title: "About"
 ---
 
