@@ -6,10 +6,6 @@ hidden: true
 header:
   image: /assets/images/background_wide.svg
 feature_row:
-  - image_path: /assets/images/PatrickTruebe.png
-    alt: "Patrick Trübe"
-    title: "Patrick Trübe"
-    excerpt: Managing Director<br/><a class="btn" href="https://www.linkedin.com/in/patrick-truebe/">Get to know Patrick →</a>
   - image_path: /assets/images/MarcosSampaio.jpg
     alt: "Marcos Perdigão"
     title: "Marcos Perdigão"
